@@ -5,9 +5,9 @@
 
 https://dsvendas-fabio-goncalves.netlify.app
 
-Dashboard de Vendas é uma aplicação full stack web e mobile construída durante a 4ª edição da **Semana DevSuperior** (#sds4), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Dashboard de Vendas é uma aplicação full stack construída durante a 4ª edição da **Semana DevSuperior** (#sds4), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste em um dashboard de Vendas, onde os dados são coletados no banco postgres, referente as vendas e vendedores e sua taxa de sucesso de vendas, são apresentados em um dashboard com gráficos baseados nestes dados.
 
 ## Layout
 
