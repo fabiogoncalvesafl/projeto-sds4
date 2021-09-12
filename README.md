@@ -1,5 +1,5 @@
 # Dashboard de Vendas
-[![NPM](https://github.com/fabiogoncalvesafl/projeto-sds4/blob/master/LICENSE)]
+[![NPM](https://img.shields.io/nmp/l/react)](https://github.com/fabiogoncalvesafl/projeto-sds4/blob/master/LICENSE)
 
 # Sobre o projeto
 
