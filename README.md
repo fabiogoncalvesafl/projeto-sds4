@@ -7,9 +7,6 @@ https://dsvendas-fabio-goncalves.netlify.app
 
 Dashboard de Vendas é uma aplicação full stack utilizando os frameworks Spring e React construída durante a 4ª edição da **Semana DevSuperior** (#sds4), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior"). Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back end construído com Spring Boot.
 
-A aplicação consiste em um dashboard de Vendas, onde os dados são coletados no banco de dados postgres, referente as vendas e vendedores e sua taxa de sucesso de vendas, são apresentados em um dashboard com gráficos baseados nestes dados.
-
-
 ## Layout
 
 ## Modelo conceitual
