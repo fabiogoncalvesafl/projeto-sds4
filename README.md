@@ -32,9 +32,10 @@ Dashboard de Vendas é uma aplicação full stack utilizando os frameworks Sprin
 - Apex Charts
 - Expo
 ## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
+- Backend: Heroku
+- Frontend web: Netlify
 - Banco de dados: Postgresql
+- https://dsvendas-fabio-goncalves.netlify.app
 
 # Autor
 
