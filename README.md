@@ -9,7 +9,15 @@ Dashboard de Vendas é uma aplicação full stack utilizando os frameworks Sprin
 
 ## Layout
 
+![](https://github.com/fabiogoncalvesafl/projeto-sds4/blob/master/img/layout.png)
+
 ## Modelo conceitual
+
+![](https://github.com/fabiogoncalvesafl/projeto-sds4/blob/master/img/m-conceitual.png)
+
+## Projeto em camadas
+
+![](https://github.com/fabiogoncalvesafl/projeto-sds4/blob/master/img/camadas.png)
 
 # Tecnologias utilizadas
 ## Back end
